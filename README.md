@@ -27,3 +27,7 @@ Key Features
 
 Project Outcome
 - The result of this project is a functional prototype that successfully supports student freelancing activities while maintaining flexibility, usability, and system effectiveness. It allows students to showcase their skills, manage freelance tasks efficiently, and gain real-world working experience.
+
+- <img width="1887" height="913" alt="image" src="https://github.com/user-attachments/assets/ded16816-129b-4b41-9a19-795d7c6e8b89" />
+
+
