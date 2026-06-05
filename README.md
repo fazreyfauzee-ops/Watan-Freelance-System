@@ -13,9 +13,9 @@ Objectives
 - To improve project completion rates among student freelancers.
 
 Tech Stack & Methodology
-Methodology : Agile methodology using the Scrum framework (ensuring iterative development and continuous feedback).
-Languages :  HTML, CSS, JavaScript, PHP
-Databases :  MySQL
+- Methodology : Agile methodology using the Scrum framework (ensuring iterative development and continuous feedback).
+- Languages :  HTML, CSS, JavaScript, PHP
+- Databases :  MySQL
 
 Key Features
 - User Registration & Freelancer Profiles
@@ -26,4 +26,4 @@ Key Features
 - Feedback Mechanisms
 
 Project Outcome
-The result of this project is a functional prototype that successfully supports student freelancing activities while maintaining flexibility, usability, and system effectiveness. It allows students to showcase their skills, manage freelance tasks efficiently, and gain real-world working experience.
+- The result of this project is a functional prototype that successfully supports student freelancing activities while maintaining flexibility, usability, and system effectiveness. It allows students to showcase their skills, manage freelance tasks efficiently, and gain real-world working experience.
